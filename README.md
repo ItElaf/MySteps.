@@ -1,2 +1,2 @@
 # MySteps Application
-Software Documentation and Technical Writing
+project of Software Documentation and Technical Writing
